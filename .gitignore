@@ -1,0 +1,17 @@
+# Compilados de PyInstaller
+build/
+dist/
+MonitorDescargas/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs y datos generados en tiempo de ejecucion
+monitor_descargas.log
+*.log
+
+# Archivos de entorno/editor
+.vscode/
+*.env
